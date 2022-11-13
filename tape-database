@@ -1,0 +1,26 @@
+[
+    {
+        "album": "Rumours",
+        "artist": "Fleetwood Mac",
+        "filename": "Rumours.mp3",
+        "bgIndex": 0
+    },
+    {
+        "album": "The College Dropout",
+        "artist": "Kanye West",
+        "filename": "The-College-Dropout.mp3",
+        "bgIndex": 1
+    },
+    {
+        "album": "Sour",
+        "artist": "Olivia Rodrigo",
+        "filename": "Sour.mp3",
+        "bgIndex": 2
+    },
+    {
+        "album": "The new Abnormal",
+        "artist": "The Strokes",
+        "filename": "The-new-abnormal.mp3",
+        "bgIndex": 1
+    }
+]
